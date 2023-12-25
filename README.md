@@ -4,7 +4,9 @@ Folder Name: Python_Projects
 
 Contents:
 
-Project1: ["Number Plate Detection"]
+Project1: ["Guess The Number"]
+
+Project2: ["Number Plate Detection"]
 
 Feel free to explore the code, and if you have any questions or feedback, don't hesitate to reach out. I'm continuously working on refining and expanding my skills, and your insights would be valuable.
 
