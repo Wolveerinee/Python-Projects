@@ -8,6 +8,8 @@ Project1: ["Guess The Number"]
 
 Project2: ["Number Plate Detection"]
 
+Project2: ["Tax_Calculator"]
+
 Feel free to explore the code, and if you have any questions or feedback, don't hesitate to reach out. I'm continuously working on refining and expanding my skills, and your insights would be valuable.
 
 Looking forward to hearing your thoughts!
